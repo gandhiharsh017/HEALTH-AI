@@ -1,0 +1,7 @@
+{
+  "name": "Health AI",
+  "description": "A world-class health companion featuring step tracking, water logging, heart rate simulation, and an AI-powered health coach for personalized wellness insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
